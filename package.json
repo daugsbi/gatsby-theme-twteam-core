@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-twteam-core",
+  "name": "@daugsbi/gatsby-theme-core",
   "version": "0.0.1",
   "main": "index.js",
   "author": "Denis Augsburger <denis.augsburger@twteam.ch> (@denisaugsburger)",

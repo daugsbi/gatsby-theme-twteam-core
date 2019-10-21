@@ -15,7 +15,7 @@
 
 ```javascript
 module.exports = {
-  plugins: ["@twteam/gatsby-theme-core"]
+  plugins: ["@daugsbi/gatsby-theme-core"]
 };
 ```
 
